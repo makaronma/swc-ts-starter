@@ -2,6 +2,9 @@
   "name": "swc-ts-starter",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "main": "dist/src/index.js",
   "scripts": {
     "start": "wireit",
